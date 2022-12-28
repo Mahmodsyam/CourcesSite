@@ -109,6 +109,14 @@ ScrollReveal().reveal('header .container .sec2',{
     duration : 3000,
     reset: true,
 });
+ScrollReveal().reveal('Text_3',{
+    delay : 0,
+    origin : 'right',
+    distance : '60px',
+    opacity : 0,
+    duration : 3000,
+    reset: true,
+});
 // ScrollReveal().reveal('nav',{
 //     delay : 0,
 //     origin : 'top',
