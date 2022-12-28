@@ -109,7 +109,7 @@ ScrollReveal().reveal('header .container .sec2',{
     duration : 3000,
     reset: true,
 });
-ScrollReveal().reveal('Text_3',{
+ScrollReveal().reveal('.Text_3',{
     delay : 0,
     origin : 'right',
     distance : '60px',
