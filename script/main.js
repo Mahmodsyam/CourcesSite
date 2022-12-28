@@ -111,7 +111,7 @@ ScrollReveal().reveal('header .container .sec2',{
 });
 ScrollReveal().reveal('.Text_3',{
     delay : 0,
-    origin : 'right',
+    origin : 'left',
     distance : '60px',
     opacity : 0,
     duration : 3000,
