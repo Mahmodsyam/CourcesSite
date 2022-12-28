@@ -1610,10 +1610,13 @@ footer .container .card .folow i {
 
 /* small */
 @media (max-width:768px) {
+/*      header*/
     header .container .main .sec2 .card h1 {
         font-size: 30px;
     }
-
+    .man1{
+        width: 185px
+    }
     header .container .main .sec2 .card p {
         font-size: 10px;
     }
